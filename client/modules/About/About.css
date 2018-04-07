@@ -1,0 +1,13 @@
+/* About styles */
+h2 {
+	font-size: 20px;
+	color: #616161;
+	text-align: center;
+}
+p {
+	font-size: 16px;
+	color: #616161;
+	text-align: center;
+	margin: 20px 20px;
+	padding: 10px 10px;
+}
